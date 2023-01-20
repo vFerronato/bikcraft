@@ -1,0 +1,33 @@
+:root {
+  --cor-0: #000000;
+  --cor-1: #ffffff;
+  --cor-2: #b2b2b2;
+  --cor-3: #a1a1a1;
+}
+
+:root {
+  --cor-p1: #ffbb00;
+}
+
+/* Base */
+.cor-0 {
+  color: var(--cor-0);
+}
+
+.cor-1 {
+  color: var(--cor-1);
+}
+
+.cor-2 {
+  color: var(--cor-2);
+}
+
+.cor-3 {
+  color: var(--cor-3);
+}
+
+/* Primarias */
+
+.cor-p1 {
+  color: var(--cor-p1);
+}

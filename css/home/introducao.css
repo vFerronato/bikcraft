@@ -1,7 +1,7 @@
 .introducao-bg {
-  background: #000000;
-  color: #ffffff;
-  box-shadow: inset 0 -120px #ffffff;
+  background: var(--cor-0);
+  color: var(--cor-1);
+  box-shadow: inset 0 -120px var(--cor-1);
 }
 
 .introducao {
@@ -27,21 +27,13 @@
 
 .introducao h1 {
   margin-bottom: 32px;
-  font-size: 64px;
-  line-height: 72px;
-  font-family: "Poppins";
-  font-weight: 600;
 }
 
 .introducao p {
   margin-bottom: 32px;
-  font-size: 24px;
-  line-height: 36px;
-  color: #b2b2b2;
-  font-family: "Roboto";
-  font-weight: 400;
+  color: var(--cor-2);
 }
 
 .introducao-conteudo h1 span {
-  color: #ffbb00;
+  color: var(--cor-p1);
 }
